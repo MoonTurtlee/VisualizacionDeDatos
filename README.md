@@ -8,4 +8,3 @@ Este repositorio alberga una colección de visualizaciones diseñadas a modo de 
 * **Kaggle:** [Music & Mental Health Survey Results](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results)
 * **Hugging Face:** [Music Lyrics](https://huggingface.co/datasets/D3STRON/music_lyrics_500k)
 * **Kaggle:** [Million Song Dataset (Spotify + Last.fm)](https://www.kaggle.com/datasets/undefinenull/million-song-dataset-spotify-lastfm)
-* **Hugging Face:** [YT Music Filtered](https://huggingface.co/datasets/maitf/yt-music-indexonly-filtered)
