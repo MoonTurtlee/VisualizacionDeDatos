@@ -6,5 +6,9 @@ Este repositorio alberga una colección de visualizaciones diseñadas a modo de 
 
 ### Entrega 1: Música y salud mental
 * **Kaggle:** [Music & Mental Health Survey Results](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results)
-* **Hugging Face:** [Music Lyrics](https://huggingface.co/datasets/D3STRON/music_lyrics_500k)
 * **Kaggle:** [Million Song Dataset (Spotify + Last.fm)](https://www.kaggle.com/datasets/undefinenull/million-song-dataset-spotify-lastfm)
+* **Kagle** [19000-spotify-songs](https://www.kaggle.com/datasets/edalrami/19000-spotify-songs)
+* **PMC** [Influencia de letras de canciones segun genero en adolescentes](https://pmc.ncbi.nlm.nih.gov/articles/PMC10434992/)
+
+
+
